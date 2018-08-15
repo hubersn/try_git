@@ -1,0 +1,1 @@
+Private repo to try out GitHub interactions mainly with Eclipse EGit/JGit.
