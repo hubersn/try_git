@@ -1,0 +1,7 @@
+Try some UTF-8 characters...
+German umlauts: äÄöÖüÜ
+Scharfes S: ß
+Euro-Zeichen: €
+Cent-Zeichen: ¢
+Internationales Währungskennzeichen: ¤
+Paragraph: §
